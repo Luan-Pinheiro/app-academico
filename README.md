@@ -1,5 +1,5 @@
 
-# Lanchonete Universitária
+# Software Academico
 
 
 Projeto realização na disciplina Algoritmos e Programação 2, na Universidade Estadual do Sudoeste da Bahia (UESB).
